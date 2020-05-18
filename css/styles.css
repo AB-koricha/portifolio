@@ -13,7 +13,17 @@ h1{
 a{
   text-decoration: none;
   color: #5673c8;
+  a:hover{
+  color:lightblue;
+  }
 }
 p{
   display:block;
 }
+.container{
+  max-width:1200px;
+  margin=auto:
+}
+@media screen and (min-width: 480px) {
+  body {
+    background-color: lightgreen;
