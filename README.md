@@ -1,4 +1,6 @@
-portifolio
+# portifolio
+
+
 ##DESCRIPTION
 
 the Apllication above is Portfolio about me(my background of education and why i joined Moringa school) and it also give link on the project about pizaa order i built and image that represent me on top.
